@@ -1,9 +1,9 @@
 # parolrekonado
-Todo:
-- retejo kun oftaj demandoj
+Taskoj:
+- retejo kun oftaj demandoj kaj ligiloj
 - deepspeech-esperanto repo
-- varbaro -repo
-- sentence-collector repo
+- reklamaĵoj - repo
+- sentence-collector frazoj - repo
 - iloj repo
-- tatoeba -sentence extractor script repo
+- tatoeba sentence extractor script repo
 
