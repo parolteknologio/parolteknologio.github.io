@@ -1,15 +1,41 @@
-name: Build and deploy Jekyll site to GitHub Pages
+# name: Build and deploy Jekyll site to GitHub Pages
+
+# on:
+#   push:
+#     branches:
+#       - master
+# jobs:
+#   github-pages:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: helaili/jekyll-action@v2
+#         with:
+#           token: ${{ secrets.GITHUB_TOKEN }}
+#           jekyll_src: '_site'
+name: Jekyll Deploy
 
 on:
   push:
     branches:
       - master
+
 jobs:
-  github-pages:
+  build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
+      - name: GitHub Checkout
+        uses: actions/checkout@v1
+      - name: Bundler Cache
+        uses: actions/cache@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          jekyll_src: '_site'
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Build & Deploy to GitHub Pages
+        uses: joshlarsen/jekyll4-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
