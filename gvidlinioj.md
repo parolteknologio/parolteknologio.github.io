@@ -1,4 +1,3 @@
-
 https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-recording-validation/36465
 Tradukita da Pablo
 
@@ -28,14 +27,12 @@ Ekzemple:
     [Oni faris pli longan tekston ol petita]
     [La vorto 'bone' ne estas en la teksto]
 
-
 Diverseco de prononcoj
 
 Estu atenta al ne rifuzi registraĵon nur ĉar la uzanto prononcis 'malbone' unu vorton, metis la akcenton en erara loko aŭ similaĵo. Estas multaj pronocoj en la mondo, kaj kelkajn el ili eble vi ne ankoraŭ aŭdis. Permesu sufiĉan marĝenon en la prononco
 por tiuj kiuj parolas malsame al vi.
 
 Aliflanke, se vi ne certas pri iu prononco, simple klaku 'ignori'.
-
 
 Fona bruo
 
@@ -52,24 +49,19 @@ Si la grabación se interrumpe o tiene crujidos, rechace a menos que se pueda es
     :X:{Crackle} gigantaj dinosaŭroj {crackle} -riaso.
     [Parto de la teksto ne estas aŭdebla]
 
-
-
 Fona voĉoj
 
 Fona bruo bonas, sed ni ne volas aldonajn voĉojn kiuj povas provoki ke algortimo identigus vortojn kiuj ne estas en la teksto. Se vi povas aldonajn vortojn al tiuj kiuj estas en la teksto, la registraĵo devas esti rifuzita. Ĝenerale, tio okazas se estas fona televido, aŭ estas proksima konversacio.
 
     :X: La gigantaj dinosaŭroj de la Triaso. [Ĉefa voĉo]. Ĉu vi venu? [Alia voĉo]
 
-
 Laŭteco
 
 Estos natura variecono inter malsamaj legantoj. Rifuzu nur se la laŭto estas tiel alta ke la regiustraĵo interrompiĝas, aŭ (pli kutime) se ĝi estas tiel mallaŭta ke vi ne povas aŭskulti kion oni diras sen legi la tekston-.
 
-
 Efektoj de legado:
 
 Plej ofte estas registraĵoj de homoj kiuj parolas nature. Vi povas akcepti kelkfoje ne naturajn registraĵojn de homoj kiuj krias, murmuras aŭ 'dramigas' per sia voĉo. Rifuzo la kantitajn registraĵojn kaj tiuj kiuj estas sintezitaj per komputilo.
-
 
 Problemoj rilate al skribita teksto.
 

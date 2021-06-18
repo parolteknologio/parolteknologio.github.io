@@ -1,18 +1,3 @@
-# name: Build and deploy Jekyll site to GitHub Pages
-
-# on:
-#   push:
-#     branches:
-#       - master
-# jobs:
-#   github-pages:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: actions/checkout@v2
-#       - uses: helaili/jekyll-action@v2
-#         with:
-#           token: ${{ secrets.GITHUB_TOKEN }}
-#           jekyll_src: '_site'
 name: Jekyll Deploy
 
 on:
@@ -22,8 +7,8 @@ on:
 
 jobs:
   build_and_deploy:
-  timeout-minutes: 5
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: GitHub Checkout
         uses: actions/checkout@v1
