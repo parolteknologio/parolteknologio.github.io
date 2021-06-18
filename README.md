@@ -4,7 +4,6 @@
 
 ![Sample Ed screenshot](https://github.com/minicomp/ed/blob/master/assets/screenshot-home.png)
 
-
 ## Introduction
 
 Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on
@@ -35,15 +34,13 @@ high-quality editions on github.io in large quantities based on the
 [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming
 for you, Kindle!
 
-
 ## Sample Ed editions.
 
 - [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
 - [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
+- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the _Lazarillo de Tormes_
 - [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
 - [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
-
 
 ## Current Features
 
@@ -59,7 +56,6 @@ for you, Kindle!
 - Simple search functionality
 - Annotations via [hypothes.is](https://hypothes.is/)
 - Optional: Ability to generate well-formatted bibliographies and linked citations
-
 
 ## Installing and using Ed
 
