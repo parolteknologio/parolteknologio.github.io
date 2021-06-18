@@ -1,0 +1,5 @@
+.sass-cache
+Gemfile.lock
+.idea
+.vscode
+_site
