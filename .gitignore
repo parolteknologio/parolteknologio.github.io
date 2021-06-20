@@ -3,3 +3,5 @@ Gemfile.lock
 .idea
 .vscode
 _site
+.DS_Store
+.jekyll-metadata
