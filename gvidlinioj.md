@@ -50,7 +50,7 @@ Se la registraĵo estas interrompita aŭ enhavas krakaĵojn, rifuzu ĝin, escept
 
 Si la grabación se interrumpe o tiene crujidos, rechace a menos que se pueda escuchar la totalidad del texto:
 
-    ❌ {Crackle} gigantaj dinosaŭroj {crackle} -riaso.
+    ❌ {krakado} gigantaj dinosaŭroj {krakado} -riaso.
     [Parto de la teksto ne estas aŭdebla]
 
 ## Fona voĉoj
