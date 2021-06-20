@@ -1,3 +1,8 @@
+---
+layout: page
+title: Gvidlinioj
+---
+
 https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-recording-validation/36465
 Tradukita da Pablo
 
