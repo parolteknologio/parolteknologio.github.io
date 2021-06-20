@@ -4,9 +4,12 @@ title: Uzeblaj sistemoj
 ---
 
 ## Pretaj sistemoj
-...
+Ĝis nun nur eksperimentaj sistemoj ekzistas. Ili nur taŭgas por entusiasmuloj aŭ programistoj. 
 
+## Uzeblaj sistemoj
 ### Deepspeech en Esperanto
+
+[Deepspeech](https://github.com/mozilla/DeepSpeech) estas neŭrala reto de Mozilla kaj nia ĉefa sistemo.  
 
 |  Datumaroj |  Versio de Deepspeech |  Kvalito |  Komentoj | Elŝuti  |
 |---|---|---|---|---|
