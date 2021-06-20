@@ -13,7 +13,7 @@ title: Uzeblaj sistemoj
 
 |  Datumaroj |  Versio de Deepspeech |  Kvalito |  Komentoj | Elŝuti  |
 |---|---|---|---|---|
-|  90h (Common Voice Corpus 6.1 2020-12-11) | ?  | WER 0.5  | trajnita de Tim  | ?  |
+|  90h (Common Voice Corpus 6.1 2020-12-11) | 0.9.3  | WER 0.5  | trajnita de Tim  | ?  |
 |   |   |   |   |   |
 |   |   |   |   |   |
 
