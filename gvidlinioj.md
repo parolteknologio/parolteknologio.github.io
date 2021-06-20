@@ -9,7 +9,7 @@ Dankon al Pablo pro la tradukado!
 
 ## Problemoj kun la regsitrado.
 
-### Miskomprenoj
+### Mislegadoj 
 
 Oni devas ege atente ke la registraĵo enhavas ekzakte kion estas skribita; rifuzu ĝin eĉ se estas malgrandaj eraroj. Plej oftaj eraroj estas:
 
