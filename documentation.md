@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: don't show
 title: Documentation
 author: Alex Gil
 ---
