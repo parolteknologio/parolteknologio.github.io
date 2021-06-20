@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Gvidlinioj
+title: Gvidlinioj por kontroli registraĵojn
 ---
 
-Ĉi tiu teksto estas traduko de la anglaj gvidlinoj:
-https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-recording-validation/36465
-Dankon al Pablo pro la tradukado!
+Ĉi tiu teksto estas traduko de la [anglaj gvidlinoj](https://discourse.mozilla.org/t/discussion-of-new-guidelines-for-recording-validation/36465):
 
-# PROJEKTO PRI DIREKTRICOJ POR REVIZII REGISTRAĴOJN:
+Dankon al Pablo pro la tradukado!
 
 ## Problemoj kun la regsitrado.
 
@@ -24,7 +22,7 @@ Ekzemple:
 
     ✅ Mi ŝatas bieron el tritiko.
     ❌ ŝatas bieron el tritiko.
-    [‘Mi’ omitido]
+    [‘Mi’ preterlasita]
     ❌ Mi ŝatas biero el tritiko.
     [Devus esti ‘bieron’]
     ❌ Mi ŝatas bieron el tritik.Se
@@ -71,7 +69,7 @@ Plej ofte estas registraĵoj de homoj kiuj parolas nature. Vi povas akcepti kelk
 
 ## Problemoj rilate al skribita teksto.
 
-Konsultu Diskuto pri novaj konsiloj pro akcepti frazojn <<<<<<<<-------------
+Se la skribita teksto enhavas erarojn aŭ nekutimaj neesperantaj vortoj bonvole uzu la butono "denunci".
 
 ## Ĉu vi ankoraŭ ne certas?
 
