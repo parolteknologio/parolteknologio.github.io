@@ -53,7 +53,7 @@ Si la grabación se interrumpe o tiene crujidos, rechace a menos que se pueda es
     ❌ {krakado} gigantaj dinosaŭroj {krakado} -riaso.
     [Parto de la teksto ne estas aŭdebla]
 
-## Fona voĉoj
+## Fonaj voĉoj
 
 Fona bruo bonas, sed ni ne volas aldonajn voĉojn kiuj povas provoki ke algortimo identigus vortojn kiuj ne estas en la teksto. Se vi povas aldonajn vortojn al tiuj kiuj estas en la teksto, la registraĵo devas esti rifuzita. Ĝenerale, tio okazas se estas fona televido, aŭ estas proksima konversacio.
 
@@ -65,7 +65,7 @@ Estos natura variecono inter malsamaj legantoj. Rifuzu nur se la laŭto estas ti
 
 ## Efektoj de legado:
 
-Plej ofte estas registraĵoj de homoj kiuj parolas nature. Vi povas akcepti kelkfoje ne naturajn registraĵojn de homoj kiuj krias, murmuras aŭ 'dramigas' per sia voĉo. Rifuzo la kantitajn registraĵojn kaj tiuj kiuj estas sintezitaj per komputilo.
+Plej ofte estas registraĵoj de homoj kiuj parolas nature. Vi povas akcepti kelkfoje ne naturajn registraĵojn de homoj kiuj krias, murmuras aŭ 'dramigas' per sia voĉo. Rifuzu la kantitajn registraĵojn kaj tiuj kiuj estas sintezitaj per komputilo.
 
 ## Problemoj rilate al skribita teksto.
 
@@ -73,4 +73,4 @@ Se la skribita teksto enhavas erarojn aŭ nekutimaj neesperantaj vortoj bonvole 
 
 ## Ĉu vi ankoraŭ ne certas?
 
-Se vi trovas ion ne kovrita per ĉi tiuj direktricoj, votu laŭ vian plej bonan kriterion. Se vi vere ne kapablas decidi, klaku 'ignori' kaj sekvu per la venonta registraĵon.
+Se vi trovas ion ne kovrita per ĉi tiuj direktricoj, votu laŭ vian plej bonan kriterion. Se vi vere ne kapablas decidi, klaku 'ignori' kaj sekvu per la venonta registraĵon. 
