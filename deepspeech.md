@@ -21,7 +21,7 @@ title: Uzeblaj sistemoj
 
 #### Kenlm Scorer
 
-|  Versio |  fontoj | Elŝuti  |
+|  Versio |  Tekstaj fontoj | Elŝuti  |
 |---|---|---|
 |  03-2021-tim |  esperanto OSCAR Corpus, liberaj libroj, frazoj el KV |  [kenlm-eo-03-2021.scorer](https://drive.google.com/file/d/1IpwH-ISw3EfEKbrmp9U9EfD_ykmJI41b/view?usp=sharing) | 
 
