@@ -16,9 +16,15 @@ title: Uzeblaj sistemoj
 
 |  Datumaroj |  Versio de Deepspeech |  Kvalito |  Komentoj | Elŝuti  |
 |---|---|---|---|---|
-|  90h (Common Voice Corpus 6.1 2020-12-11) | 0.9.3  | WER 0.5  | trajnita de Tim  | [kenlm-eo-03-2021.scorer](https://drive.google.com/file/d/1IpwH-ISw3EfEKbrmp9U9EfD_ykmJI41b/view?usp=sharing) [eo-90h.pbmm](https://drive.google.com/file/d/16NMp0p0Xn_Xq1nqSDzcP89baKFkxvpUb/view?usp=sharing) |
+|  90h (Common Voice Corpus 6.1 2020-12-11) | 0.9.3  | WER 0.5  | trajnita de Tim  |  [eo-90h.pbmm](https://drive.google.com/file/d/16NMp0p0Xn_Xq1nqSDzcP89baKFkxvpUb/view?usp=sharing) |
 |   |   |   |   |   |
-|   |   |   |   |   |
+
+#### Kenlm Scorer
+
+|  Versio |  fontoj | Elŝuti  |
+|---|---|---|
+|  03-2021-tim |  esperanto common crawl, liberaj libroj, fratoj el KV |  [kenlm-eo-03-2021.scorer](https://drive.google.com/file/d/1IpwH-ISw3EfEKbrmp9U9EfD_ykmJI41b/view?usp=sharing) | 
+
 
 ## Planitaj sistemoj
 - [Vosk Speech recognition](https://alphacephei.com/vosk/) ĉar ĝi estas uzebla en la videoredaktilo Kdenlive. 
