@@ -3,15 +3,14 @@ layout: page
 title: Uzeblaj sistemoj
 ---
 
-## Kiel uzi Deepspeechh
-* Dokumentado (en la angla): [deepspeech.readthedocs.io](https://deepspeech.readthedocs.io)
-* Video: Kiel uzi Deepspeech (en la angla): [Real-time Speech to Text with DeepSpeech - Getting Started on Windows and Transcribe Microphone Free](https://www.youtube.com/watch?v=c_0Q3T0XYTA)
-
 ## Pretaj sistemoj
 Ĝis nun nur eksperimentaj sistemoj ekzistas. Ili nur taŭgas por entusiasmuloj aŭ programistoj. 
 
 ## Uzeblaj sistemoj
 ### Deepspeech en Esperanto
+#### Kiel uzi Deepspeechh
+* Dokumentado (en la angla): [deepspeech.readthedocs.io](https://deepspeech.readthedocs.io)
+* Video: Kiel uzi Deepspeech (en la angla): [Real-time Speech to Text with DeepSpeech - Getting Started on Windows and Transcribe Microphone Free](https://www.youtube.com/watch?v=c_0Q3T0XYTA)
 
 [Deepspeech](https://github.com/mozilla/DeepSpeech) estas neŭrala reto de Mozilla kaj nia ĉefa sistemo.  
 
