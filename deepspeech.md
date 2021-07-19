@@ -23,7 +23,7 @@ title: Uzeblaj sistemoj
 
 |  Versio |  fontoj | Elŝuti  |
 |---|---|---|
-|  03-2021-tim |  esperanto common crawl, liberaj libroj, fratoj el KV |  [kenlm-eo-03-2021.scorer](https://drive.google.com/file/d/1IpwH-ISw3EfEKbrmp9U9EfD_ykmJI41b/view?usp=sharing) | 
+|  03-2021-tim |  esperanto OSCAR Corpus, liberaj libroj, frazoj el KV |  [kenlm-eo-03-2021.scorer](https://drive.google.com/file/d/1IpwH-ISw3EfEKbrmp9U9EfD_ykmJI41b/view?usp=sharing) | 
 
 
 ## Planitaj sistemoj
