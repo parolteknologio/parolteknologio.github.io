@@ -8,11 +8,11 @@ title: Uzeblaj sistemoj
 
 ## Uzeblaj sistemoj
 ### Deepspeech en Esperanto
-#### Kiel uzi Deepspeechh
+[Deepspeech](https://github.com/mozilla/DeepSpeech) estas neŭrala reto de Mozilla kaj nia ĉefa sistemo.  
+#### Kiel uzi Deepspeech
 * Dokumentado (en la angla): [deepspeech.readthedocs.io](https://deepspeech.readthedocs.io)
 * Video: Kiel uzi Deepspeech (en la angla): [Real-time Speech to Text with DeepSpeech - Getting Started on Windows and Transcribe Microphone Free](https://www.youtube.com/watch?v=c_0Q3T0XYTA)
 
-[Deepspeech](https://github.com/mozilla/DeepSpeech) estas neŭrala reto de Mozilla kaj nia ĉefa sistemo.  
 
 |  Datumaroj |  Versio de Deepspeech |  Kvalito |  Komentoj | Elŝuti  |
 |---|---|---|---|---|
