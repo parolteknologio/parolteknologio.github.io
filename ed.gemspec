@@ -1,10 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = ""
-  spec.version       = ""
-  spec.authors       = [""]
-  spec.email         = [""]
+  spec.name          = "eo"
+  spec.version       = "1"
+  spec.authors       = ["sg"]
+  spec.email         = ["testo@testo.eo"]
 
   spec.summary       = ""
   spec.description   = ""
