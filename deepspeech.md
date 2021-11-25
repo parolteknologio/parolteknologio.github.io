@@ -7,23 +7,23 @@ title: Uzeblaj sistemoj
 Ĝis nun nur eksperimentaj sistemoj ekzistas. Ili nur taŭgas por entusiasmuloj aŭ programistoj. 
 
 ## Uzeblaj sistemoj
-### Deepspeech en Esperanto
-[Deepspeech](https://github.com/mozilla/DeepSpeech) estas neŭrala reto de Mozilla kaj nia ĉefa sistemo.  
-#### Kiel uzi Deepspeech
-* Dokumentado (en la angla): [deepspeech.readthedocs.io](https://deepspeech.readthedocs.io)
+### Deepspeech/Coqui AI en Esperanto
+[Deepspeech](https://github.com/mozilla/DeepSpeech) estas neŭrala reto de Mozilla kaj nia ĉefa sistemo. Ekde versio 1.0 ĝi nun nomiĝas Coqui AI. 
+#### Kiel uzi Deepspeech/Cqui AI
+* Dokumentado (en la angla): [stt.readthedocs.io](https://stt.readthedocs.io/en/latest/)
 * Video: Kiel uzi Deepspeech (en la angla): [Real-time Speech to Text with DeepSpeech - Getting Started on Windows and Transcribe Microphone Free](https://www.youtube.com/watch?v=c_0Q3T0XYTA)
 
 
 |  Datumaroj |  Versio de Deepspeech |  Kvalito |  Komentoj | Elŝuti  |
 |---|---|---|---|---|
-|  90h (Common Voice Corpus 6.1 2020-12-11) | 0.9.3  | WER 0.5  | trajnita de Tim  |  [eo-90h.pbmm](https://drive.google.com/file/d/16NMp0p0Xn_Xq1nqSDzcP89baKFkxvpUb/view?usp=sharing) |
-|   |   |   |   |   |
+|  90h (Common Voice Corpus 6.1 2020-12-11) | 0.9.3  | WER 0.5  | trajnita de Tim  |  eo-90h.pbmm |
+| 740h (Common Voice Corpus 7)  |  Coqui AI 1.0 | WER 0.24  | trejnita de Stefan  | [eo-2048-transfer-25.tflite](https://github.com/parolteknologio/stt-esperanto/raw/master/deepspeech-coqui/common-voice-corpus-7/eo-2048-transfer-25.tflite)  |
 
 #### Kenlm Scorer
 
 |  Versio |  Tekstaj fontoj | Elŝuti  |
 |---|---|---|
-|  03-2021-tim |  esperanto OSCAR Corpus, liberaj libroj, frazoj el KV |  [kenlm-eo-03-2021.scorer](https://drive.google.com/file/d/1IpwH-ISw3EfEKbrmp9U9EfD_ykmJI41b/view?usp=sharing) | 
+|  03-2021-tim |  esperanto OSCAR Corpus, liberaj libroj, frazoj el KV |  [esperanto_v0.0.2.scorer](https://github.com/parolteknologio/stt-esperanto/raw/master/scorer/esperanto_v0.0.2.scorer) | 
 
 
 ## Planitaj sistemoj
