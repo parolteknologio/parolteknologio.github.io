@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Uzeblaj sistemoj
+title: Niaj ekzperimentoj
 ---
 
-## Pretaj sistemoj
-Ĝis nun nur eksperimentaj sistemoj ekzistas. Ili nur taŭgas por entusiasmuloj aŭ programistoj. 
 
-## Uzeblaj sistemoj
-### Deepspeech/Coqui AI en Esperanto
+## Deepspeech/Coqui AI en Esperanto
 [Deepspeech](https://github.com/mozilla/DeepSpeech) estas neŭrala reto de Mozilla kaj nia ĉefa sistemo. Ekde versio 1.0 ĝi nun nomiĝas Coqui AI. 
 #### Kiel uzi Deepspeech/Cqui AI
 * Dokumentado (en la angla): [stt.readthedocs.io](https://stt.readthedocs.io/en/latest/)
@@ -25,11 +22,6 @@ title: Uzeblaj sistemoj
 |---|---|---|
 |  03-2021-tim |  esperanto OSCAR Corpus, liberaj libroj, frazoj el KV |  [esperanto_v0.0.2.scorer](https://github.com/parolteknologio/stt-esperanto/raw/master/scorer/esperanto_v0.0.2.scorer) | 
 
-
-## Planitaj sistemoj
-- [Vosk Speech recognition](https://alphacephei.com/vosk/) ĉar ĝi estas uzebla en la videoredaktilo Kdenlive. 
-- Reta servo por aŭtomataj subtekstoj
-- ...
 
 ## Eblaj datumfontoj
 
