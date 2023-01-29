@@ -3,7 +3,7 @@ layout: page
 title: "Oftaj Demandoj pri Common Voice"
 ---
 
-![bildo](master/2-1-banner.png)
+![CV banero](https://raw.githubusercontent.com/parolteknologio/parolteknologio.github.io/master/2-1-banner.png)
 <div class="introduction">
 
 
