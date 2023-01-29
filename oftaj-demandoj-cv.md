@@ -2,11 +2,12 @@
 layout: page
 title: "Oftaj Demandoj pri Common Voice"
 ---
+
+![bildo](master/2-1-banner.png)
 <div class="introduction">
 
 
     <div>
-        <a href="https://commonvoice.mozilla.org/eo" target="_blank"><img src="https://github.com/parolteknologio/parolteknologio.github.io/blob/master/2-1-banner.png?raw=true" alt="" ></a>
         <h1>Oftaj demandoj:</h1>
         <p>
         <strong>Mi volas helpi, kion mi povas fari?</strong><br>
