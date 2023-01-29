@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Niaj ekzperimentoj
+title: Niaj eksperimentoj
 ---
 
 
