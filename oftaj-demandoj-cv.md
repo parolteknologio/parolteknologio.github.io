@@ -3,9 +3,10 @@ layout: default
 title: "Oftaj Demandoj pri Common Voice kaj Parolteknologio"
 ---
 <div class="introduction">
-<a href="https://commonvoice.mozilla.org/eo" target="_blank"><img src="2-1-banner.png" alt="" ></a>
+
 
     <div>
+        <a href="https://commonvoice.mozilla.org/eo" target="_blank"><img src="2-1-banner.png" alt="" ></a>
         <h1>Oftaj demandoj:</h1>
         <p>
         <strong>Mi volas helpi, kion mi povas fari?</strong><br>
