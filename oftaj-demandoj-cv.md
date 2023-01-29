@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Oftaj Demandoj pri Common Voice kaj Parolteknologio"
+layout: page
+title: "Oftaj Demandoj pri Common Voice"
 ---
 <div class="introduction">
 
