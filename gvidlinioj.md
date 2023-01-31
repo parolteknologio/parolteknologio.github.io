@@ -7,7 +7,7 @@ title: Gvidlinioj por kontroli registraĵojn
 
 Dankon al Pablo pro la tradukado!
 
-## Problemoj kun la regsitrado.
+## Problemoj kun la registrado.
 
 ### Mislegadoj 
 
@@ -46,9 +46,7 @@ Ni volas ke la algortimo de aŭtomata lernado kapablos manaĝi variecon de fona 
     ❌ La gigantaj dino {tos} de la Triaso.
     [Parto de la teksto ne estas aŭdebla]
 
-Se la registraĵo estas interrompita aŭ enhavas krakaĵojn, rifuzu ĝin, escepte ke la tutan tekston estas aŭdebla kaj komprenebla:
-
-Si la grabación se interrumpe o tiene crujidos, rechace a menos que se pueda escuchar la totalidad del texto:
+Se la registraĵo estas interrompita aŭ enhavas krakaĵojn, rifuzu ĝin, escepte ke la tuta teksto estas aŭdebla kaj komprenebla:
 
     ❌ {krakado} gigantaj dinosaŭroj {krakado} -riaso.
     [Parto de la teksto ne estas aŭdebla]
@@ -61,7 +59,7 @@ Fona bruo bonas, sed ni ne volas aldonajn voĉojn kiuj povas provoki ke algortim
 
 ## Laŭteco
 
-Estos natura variecono inter malsamaj legantoj. Rifuzu nur se la laŭto estas tiel alta ke la regiustraĵo interrompiĝas, aŭ (pli kutime) se ĝi estas tiel mallaŭta ke vi ne povas aŭskulti kion oni diras sen legi la tekston-.
+Estos natura variecono inter malsamaj legantoj. Rifuzu nur se la laŭto estas tiel alta ke la registraĵo interrompiĝas, aŭ (pli kutime) se ĝi estas tiel mallaŭta ke vi ne povas aŭskulti kion oni diras sen legi la tekston-.
 
 ## Efektoj de legado:
 
@@ -69,8 +67,8 @@ Plej ofte estas registraĵoj de homoj kiuj parolas nature. Vi povas akcepti kelk
 
 ## Problemoj rilate al skribita teksto.
 
-Se la skribita teksto enhavas erarojn aŭ nekutimaj neesperantaj vortoj bonvole uzu la butono "denunci".
+Se la skribita teksto enhavas erarojn aŭ nekutimaj neesperantaj vortoj bonvole uzu la butonon "denunci".
 
 ## Ĉu vi ankoraŭ ne certas?
 
-Se vi trovas ion ne kovrita per ĉi tiuj direktricoj, votu laŭ vian plej bonan kriterion. Se vi vere ne kapablas decidi, klaku 'ignori' kaj sekvu per la venonta registraĵon. 
+Se vi trovas ion ne kovrita per ĉi tiuj direktricoj, votu laŭ vian plej bonan kriterion. Se vi vere ne kapablas decidi, klaku 'ignori' kaj iru al la venonta registraĵo. 
