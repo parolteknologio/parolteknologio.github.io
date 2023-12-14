@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Parolteknologio en Esperanto</title>
+ <link href="https://parolrekonado.github.io/atom.xml" rel="self"/>
+ <link href="https://parolrekonado.github.io/"/>
+ <updated>2023-12-14T08:30:08+00:00</updated>
+ <id>https://parolrekonado.github.io</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
